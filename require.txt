@@ -1,0 +1,10 @@
+Flask
+Flask-CORS
+python-dotenv
+pytesseract
+Pillow
+opencv-python
+pdf2image
+pandas
+openpyxl
+openai
