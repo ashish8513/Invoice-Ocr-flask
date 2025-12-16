@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+openpyxl
+pypdf
+openai
+python-dotenv
+werkzeug
